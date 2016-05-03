@@ -15,8 +15,8 @@ packages :
   - bzr
   - glide
 script : |
-  version="1.6"
-  glideversion="0.9.1"
+  version="1.6.2"
+  glideversion="0.10.2"
 
   sudo apt-get update
   sudo apt-get install bzr
