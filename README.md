@@ -14,6 +14,10 @@ The MIT License (MIT)
 
 # Changelog
 
+## 1.6.2
+
+- Update Go to 1.6.2
+
 ## 1.4.1
 
 - Update Go to 1.5.1
