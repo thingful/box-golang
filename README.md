@@ -6,7 +6,7 @@ Box that runs latest stable version of Go.
 
 # What's new
 
-- Update Go to 1.5.1
+- Update Go to 1.6.2
 
 # License
 
